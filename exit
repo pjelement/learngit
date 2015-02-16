@@ -1,0 +1,29 @@
+[33mcommit d0e63229b97756dbcde4722ddbdc8f89edb12584[m
+Author: pj <ctpjelement@me.com>
+Date:   Mon Feb 16 22:02:47 2015 +0800
+
+    git track changes
+
+[33mcommit d40d31b2443edeacbf3b86116d46f8f0a7e11e18[m
+Author: pj <ctpjelement@me.com>
+Date:   Mon Feb 16 21:41:21 2015 +0800
+
+    understand how stages works
+
+[33mcommit 411a3b30b88693cb65aa7c455f20c987e5e7d61e[m
+Author: pj <ctpjelement@me.com>
+Date:   Mon Feb 16 14:27:16 2015 +0800
+
+    append GPL
+
+[33mcommit fc4b06f5bc5860c238bcee6c1e623b8cc64e769e[m
+Author: pj <ctpjelement@me.com>
+Date:   Mon Feb 16 14:23:15 2015 +0800
+
+    add distributed
+
+[33mcommit 7822fb96f57a78962b794e754f3f201610f00dee[m
+Author: pj <ctpjelement@me.com>
+Date:   Mon Feb 16 14:15:42 2015 +0800
+
+    wrote a readme file
